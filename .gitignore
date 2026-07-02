@@ -1,9 +1,0 @@
-# Exclude large voiceover audio files from GitHub
-project_voiceover.wav
-
-# Exclude local audio generation script
-generate_audio.ps1
-
-# System files
-.DS_Store
-Thumbs.db
